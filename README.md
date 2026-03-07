@@ -5,6 +5,7 @@ TrendPulse is a real-time trend detection dashboard designed for media professio
 [Link to Deployed App](https://trendpulse-media-signal-detector-711071378716.us-west1.run.app)
 
 ## TrendPulse Preview
+<img width="898" height="920" alt="4-Search2_LightMode" src="https://github.com/user-attachments/assets/10711b12-d05e-4ae3-88c7-e24eed5f3fd4" />
 
 More app demo screenshots shared in the *screenshots* folder.
 
@@ -52,10 +53,6 @@ More app demo screenshots shared in the *screenshots* folder.
 3. **Search Grounding**: The model uses Google Search grounding to fetch real-time information about current events matching the criteria.
 4. **Clustering & Synthesis**: The model processes the search results, clusters related stories into "Trends," and assigns metrics like "Velocity" and "Sentiment."
 5. **Visualization**: The structured JSON response is parsed and rendered into the dashboard components.
-
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ## Disclaimer
 
