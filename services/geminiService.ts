@@ -3,10 +3,10 @@ import { FilterState, Trend } from "../types";
 import { COUNTRIES, CATEGORIES } from "../constants";
 
 // Models
-const MAIN_MODEL = 'gemini-2.5-flash-preview'; // Using Flash Preview for better tool integration and grounding
-const MAPS_MODEL = 'gemini-2.5-flash';
+const MAIN_MODEL = 'gemini-2.0-flash';
+const MAPS_MODEL = 'gemini-2.0-flash';
 const TTS_MODEL = 'gemini-2.5-flash-preview-tts';
-const IMAGE_MODEL = 'gemini-2.5-flash-image'; // Changed to Flash Image (unpaid key compatible)
+const IMAGE_MODEL = 'gemini-2.0-flash-preview-image-generation';
 
 // Initialize default AI (uses env key)
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
