@@ -1,0 +1,7 @@
+{
+  "name": "TrendPulse - Media Signal Detector",
+  "description": "A real-time trend detection dashboard for media professionals. It scrapes news (via Gemini Search), clusters topics, and visualizes signal velocity and geolocation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
