@@ -2,8 +2,6 @@
 
 TrendPulse is a real-time trend detection dashboard designed for media professionals. It leverages Google's Gemini AI to "scrape" (simulate via search grounding) news sources, cluster emerging topics, and visualize signal velocity and geolocation data.
 
-[Link to Deployed App](https://trendpulse-media-signal-detector-711071378716.us-west1.run.app)
-
 ## TrendPulse Preview
 <img width="898" height="920" alt="4-Search2_LightMode" src="https://github.com/user-attachments/assets/10711b12-d05e-4ae3-88c7-e24eed5f3fd4" />
 
