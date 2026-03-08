@@ -56,4 +56,4 @@ More app demo screenshots shared in the *screenshots* folder.
 
 ## Disclaimer
 
-This app was built during a company training programme using Google AI Studio to train myself in prompt engineering, generative AI, and front-end development.# trendpulse-media-dashboard
+This app was built during a company training programme using Google AI Studio to train myself in prompt engineering, generative AI, and front-end development. Do not copy, reupload, redistribute or publish this app or similar unless with explicit permission.
