@@ -56,4 +56,4 @@ More app demo screenshots shared in the *screenshots* folder.
 
 ## Disclaimer
 
-This app was built during a company training programme using Google AI Studio to train myself in prompt engineering, generative AI, and front-end development. Do not copy, reupload, redistribute or publish this app or similar unless with explicit permission.
+This app was built during a company training programme using Google AI Studio, as part of my learning in prompt engineering, generative AI, and front-end development with React and the Gemini API. Please do not copy, redistribute, or republish this app or derivative works without explicit permission.
