@@ -40,7 +40,7 @@ More app demo screenshots shared in the *screenshots* folder.
 ├── App.tsx               # Main application controller and layout
 ├── constants.ts          # Static data (Countries, Categories)
 ├── types.ts              # TypeScript interfaces and type definitions
-├── .env                  # Environment variables (API Keys)
+├── .env                  # Environment variables (API Keys - private, and not included in repo)
 └── vite.config.ts        # Vite configuration
 ```
 
